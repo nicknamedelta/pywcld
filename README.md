@@ -8,8 +8,6 @@ Installation: [WordCloud](https://github.com/amueller/word_cloud#installation-no
 
 ## :runner: To run this project ?
 
-Live demo [here](https://repl.it/repls/LeanSoulfulHack).
-
 On project's root folder run `python3 main.py`
 
 **Based On**: [WordCloud Parrot](https://amueller.github.io/word_cloud/auto_examples/parrot.html#sphx-glr-auto-examples-parrot-py)
